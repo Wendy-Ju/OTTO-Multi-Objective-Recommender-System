@@ -32,7 +32,7 @@ and the recalled product
 According to the historical click/shopping difference/purchased product data, we can label the
 recalled data with 0 or 1. Then we established the LGB binary classification model, and selected
 the 20 product IDs with the highest prediction probability as the submission. Our final
-leaderboard score is 0.585, ranking in the top 4%.
+leaderboard score is 0.589, ranking in the top 3%.
 
 4. In this competition, we reasonably controlled the rhythm of the competition according to the
 competition time, actively discussed, reasonably formulated the iterative tasks of the
